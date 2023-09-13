@@ -1,0 +1,12 @@
+Great job! Only thing is dont forget that the <th> parts of the table need to be wrapped in a <tr> tag. See below:
+
+<tr>
+  <th></th>
+  <th></th>
+  <th></th>
+</tr>
+
+Grade: 98/100
+
+You can edit your mistake(s) and resubmit your lab at any time before the end of the module to earn full credit of what points were lost. 
+Just make sure to specify in your email what you fixed.
